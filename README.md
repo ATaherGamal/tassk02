@@ -1,2 +1,1 @@
-# tassk02
-This project demonstrates Git basics for Task 02.
+# Demo Task 02 Repository
